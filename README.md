@@ -1,4 +1,6 @@
-# Classifieds Marketplace API (OLX Backend Clone)
+# ListingHub
+
+> An OLX-style classifieds marketplace backend built in Go.
 
 A high-concurrency, production-grade RESTful API backend built in **Go (Golang)** for a scalable classifieds marketplace (inspired by OLX). Engineered with resilient architectural patterns including a **Transactional Outbox Worker**, **Non-blocking Keyset Pagination**, **Direct-to-Cloud Presigned S3/R2 Uploads**, **Token Bucket In-Memory Rate Limiting**, and **Constant-Time Timing-Attack Mitigation**.
 
